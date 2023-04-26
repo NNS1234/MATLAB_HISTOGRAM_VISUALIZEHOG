@@ -1,0 +1,12 @@
+1.https://www.youtube.com/watch?v=AGH19eJWunk
+2.https://www.mathworks.com/help/vision/ug/camera-calibration.html
+3.https://www.youtube.com/watch?v=GpU1Vx-b3VA&t=288s
+4.https://www.youtube.com/watch?v=QqRBNbfwPII
+5.https://drive.google.com/file/d/1_s2nZM6JPp566EmYdtEOCpcBUBeNMk5K/view
+6.https://www.cs.auckland.ac.nz/~rklette/CCV-CIMAT/pdfs/B14-CameraCalibration.pdf
+7.http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/FUSIELLO2/node5.html
+8. http://www.sci.utah.edu/~gerig/CS6320-S2012/Materials/CS6320-CV-F2012-Rectification.pdf
+9. http://www.cim.mcgill.ca/~langer/558/19-cameracalibration.pdf
+10.http://www.sci.utah.edu/~gerig/CS6320-S2012/Materials/CS6320-CV-F2012-Rectification.pdf
+11.https://link.springer.com/article/10.1007/s11042-018-6475-6
+12.https://www.youtube.com/watch?v=zIeX8bqKSBs
